@@ -2,7 +2,7 @@
 
 //Set authToken with value from https://www.bitfinex.com/_ws_token while in context switch
 
-const authToken = {"token":"pub:api:kAArN5MlHf0FEvJ8j2j3cljdjcSvUucD-caps:o:f:w:s-read"}
+const authToken = {TokenGoesHere}
 
 //Get VWAP data
 
